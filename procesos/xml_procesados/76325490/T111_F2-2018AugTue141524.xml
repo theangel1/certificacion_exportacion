@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T111_F2-2018AugTue141524">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>111</TipoDTE>
+				<Folio>2</Folio>
+				<FchEmis>2018-08-14</FchEmis>
+				<IndServicio>4</IndServicio>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76325490-9</RUTEmisor>
+				<RznSoc>MASIVOS S A </RznSoc>
+				<GiroEmis>VENTA AL POR MAYOR DE HUEVOS, LECHE, ABARROTES, Y OTROS ALIMENTOS N.C. </GiroEmis>
+				<CorreoEmisor>jafe@vitrotec.cl</CorreoEmisor>
+				<Acteco>512290</Acteco>
+				<DirOrigen>SANTA CLARA 301 BLOQUE 5806</DirOrigen>
+				<CmnaOrigen>HUECHURABA</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>ANGEL NETDTE EXPORTACIONES</RznSocRecep>
+				<GiroRecep>SERVICIOS DE HOSTING</GiroRecep>
+				<DirRecep>LAGO COCHRANE 4920</DirRecep>
+			</Receptor>
+			<Totales>
+				<TpoMoneda>DOLAR USA</TpoMoneda>
+				<MntExe>60</MntExe>
+				<MntTotal>60</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>657.00</TpoCambio>
+				<MntExeOtrMnda>39420.00</MntExeOtrMnda>
+				<MntTotOtrMnda>39420.00</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>WEB HOSTING</NmbItem>
+			<QtyItem>1</QtyItem>
+			<PrcItem>60.00</PrcItem>
+			<MontoItem>60</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>112</TpoDocRef>
+			<FolioRef>2</FolioRef>
+			<FchRef>2018-08-14</FchRef>
+			<CodRef>1</CodRef>
+			<RazonRef>ANULA NC EXP</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>2</NroLinRef>
+			<TpoDocRef>813</TpoDocRef>
+			<FolioRef>5</FolioRef>
+			<FchRef>2018-08-14</FchRef>
+			<RazonRef>175587365</RazonRef>
+		</Referencia>
+		<TED version="1.0">
+			<DD>
+				<RE>76325490-9</RE>
+				<TD>111</TD>
+				<F>2</F>
+				<FE>2018-08-14</FE>
+				<RR>55555555-5</RR>
+				<RSR>ANGEL NETDTE EXPORTACIONES</RSR>
+				<MNT>60</MNT>
+				<IT1>WEB HOSTING</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>76325490-9</RE>
+<RS>MASIVOS S A</RS>
+<TD>111</TD>
+<RNG><D>1</D><H>100</H></RNG>
+<FA>2018-08-14</FA>
+<RSAPK><M>vcq3q3CJVwT1FrEVgwkysd0YOqtXo1Vh03K4LXnEs8TZgJ2+bAtwXKM6mmSG+dmu7uonyCd3G93w/N9aNvpo1w==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">sj0uskjGnWDnrDoQBxMMTOHY3Ney7zF72qLIq1J0faL5MZA25xuO6a+wkVZJC526yqnIVGIEhHKR63ZZ829UMg==</FRMA>
+</CAF><TSTED>2018-08-14T14:15:24</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">UoPx84w0QFktXuBgYVP5RruGoNoAGQriqEal/rm+cSVYTeeL0lTMiidzjiHQdcoLYIzoNY97J6y0mxHbkv+rlw==</FRMT>
+</TED>
+		<TmstFirma>2018-08-14T14:15:24</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>UhiAp1mfWe9Pq75s9G8qPbsY6c0=</DigestValue></Reference></SignedInfo><SignatureValue>pBKtLnURHNIr1GEMsCHWRjGk/g3pC0s8eqKQ1ZNddxkozq0knhZM1yjLHLfiIqU1bmO4mGtwO3+pGYusND7S3yzOGp/qDoPoROoX3F2DdEaC5jshErKdsbplQO+Dk8cQBahmrs655eX+bCQhYxiAwkHumAR0HZVVF1PxmM2FDIA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>usTLpm5FOnMQuM2S/fe4zHUp2PzXXEylMtxLaOi46w+79P250DtQWf89vfoynH1oa4xFzHXifn5W
+1aEy6xwNYmCC0hfXnlZtzvVg5U1iOpD64KrAIKfbyBCKMKfclpy0XninfkIOpyZWqvH8PbNUYYbA
+zfpUXGysLeZGMlp3fBE=
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGWDCCBUCgAwIBAgIKZa5SDAAAAAkRLDANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzEwMTAxMzI5MjVaFw0yMDEwMDkxMzI5MjVa
+MIHbMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMR4wHAYDVQQKExVTSVNHRU4gQ0hJTEUgTElNSVRBREExHzAdBgNVBAsT
+FlNFUlZJQ0lPUyBJTkZPUk1BVElDT1MxJjAkBgNVBAMTHUpPU0UgQU5UT05JTyBGRVJSRVIgRUNI
+QVZBUlJJMSswKQYJKoZIhvcNAQkBFhxhbmdlbC5waW5pbGxhQHNpc2dlbmNoaWxlLmNsMIGfMA0G
+CSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6xMumbkU6cxC4zZL997jMdSnY/NdcTKUy3Eto6LjrD7v0
+/bnQO1BZ/z29+jKcfWhrjEXMdeJ+flbVoTLrHA1iYILSF9eeVm3O9WDlTWI6kPrgqsAgp9vIEIow
+p9yWnLReeKd+Qg6nJlaq8fw9s1RhhsDN+lRcbKwt5kYyWnd8EQIDAQABo4ICpzCCAqMwPQYJKwYB
+BAGCNxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgcueFIaoglgCAWQCAQQw
+HQYDVR0OBBYEFKjpAR+WczVKCjvSTZsrX3QZ5tzRMAsGA1UdDwQEAwIE8DAfBgNVHSMEGDAWgBR4
+4T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNo
+aWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5o
+dHRwOi8vb2NzcC5lY2VydGNoaWxlLmNsL29jc3AwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgow
+NjE5MDU3My0xMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTCCAU0GA1UdIASC
+AUQwggFAMIIBPAYIKwYBBAHDUgUwggEuMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNo
+aWxlLmNsL0NQUy5odG0wgfwGCCsGAQUFBwICMIHvHoHsAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AEYAaQByAG0AYQAgAFMAaQBtAHAAbABlAC4AIABIAGEAIABzAGkAZABvACAAdgBhAGwAaQBkAGEA
+ZABvACAAZQBuACAAZgBvAHIAbQBhACAAcAByAGUAcwBlAG4AYwBpAGEAbAAsACAAcQB1AGUAZABh
+AG4AZABvACAAaABhAGIAaQBsAGkAdABhAGQAbwAgAGUAbAAgAEMAZQByAHQAaQBmAGkAYwBhAGQA
+bwAgAHAAYQByAGEAIAB1AHMAbwAgAHQAcgBpAGIAdQB0AGEAcgBpAG8wDQYJKoZIhvcNAQEFBQAD
+ggEBAMGzvrDRIYMbRhTzlV4edXWQcpZ/7YxxHtxS2CpWBhhoEhCsdCIcVAM3YeKEsIencDRTn573
+ImA+ivu/G/PMabpjnI/VvyeMQff7OjldBhildCBVYnAueu9Mk+Yg5n93D8qSf4fAbGb2CHV7QQVx
+hLHcOuEOGIWKhTbZu3Bm1eilV4Vsto3VvzsIxLJfWPATviMsyH+5QuUeRZ/JjDt69ZbHhSMlpZrH
+IMKj2oM9WiBt35J/coQ580tJdRRiCvIGWsmHlJBU6qp9TnmDTj7zsqLJXahyizJHcLGIz7GrtpNC
+21q/ADxJxRz29kRWKzv68o8mFePlKyDNCA02STx8uF8=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

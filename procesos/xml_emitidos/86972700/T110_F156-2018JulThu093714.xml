@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T110_F156-2018JulThu093714">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>110</TipoDTE>
+				<Folio>156</Folio>
+				<FchEmis>2018-07-19</FchEmis>
+				<IndServicio>3</IndServicio>
+				<FmaPagExp>2</FmaPagExp>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>86972700-8</RUTEmisor>
+				<RznSoc>SOC EDITORIAL CUATRO VIENTOS Y CIA LTDA</RznSoc>
+				<GiroEmis>EDICION PRINCIPALMENTE DE LIBROS</GiroEmis>
+				<CorreoEmisor>angel.pinilla@outlook.es</CorreoEmisor>
+				<Acteco>221101</Acteco>
+				<DirOrigen>MATURANA 19</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>asdasd</RznSocRecep>
+				<GiroRecep>asdasd</GiroRecep>
+				<DirRecep>asdasd</DirRecep>
+			</Receptor>
+			<Totales>
+				<TpoMoneda>EURO</TpoMoneda>
+				<MntExe>110</MntExe>
+				<MntTotal>110</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>600.00</TpoCambio>
+				<MntExeOtrMnda>66000.00</MntExeOtrMnda>
+				<MntTotOtrMnda>66000.00</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>cosa</NmbItem>
+			<QtyItem>1</QtyItem>
+			<UnmdItem>un</UnmdItem>
+			<PrcItem>100.00</PrcItem>
+			<MontoItem>100</MontoItem>
+		</Detalle>
+		<DscRcgGlobal>
+			<NroLinDR>1</NroLinDR>
+			<TpoMov>D</TpoMov>
+			<GlosaDR/>
+			<TpoValor>%</TpoValor>
+			<ValorDR>10</ValorDR>
+			<IndExeDR>1</IndExeDR>
+		</DscRcgGlobal>
+		<DscRcgGlobal>
+			<NroLinDR>2</NroLinDR>
+			<TpoMov>R</TpoMov>
+			<GlosaDR/>
+			<TpoValor>$</TpoValor>
+			<ValorDR>20</ValorDR>
+			<IndExeDR>1</IndExeDR>
+		</DscRcgGlobal>
+		<TED version="1.0">
+			<DD>
+				<RE>86972700-8</RE>
+				<TD>110</TD>
+				<F>156</F>
+				<FE>2018-07-19</FE>
+				<RR>55555555-5</RR>
+				<RSR>asdasd</RSR>
+				<MNT>110</MNT>
+				<IT1>cosa</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>86972700-8</RE>
+<RS>SOC EDITORIAL CUATRO VIENTOS Y CIA LTDA</RS>
+<TD>110</TD>
+<RNG><D>151</D><H>250</H></RNG>
+<FA>2018-07-06</FA>
+<RSAPK><M>7rnRm/k0cM9SF6cldf5ktSgJJZdwqbYjzGm1BNfrNgJaOw9z1jV5vwFAxHdM/c85eZfCm2JqdYzZwLs+QlNZ2w==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">gyjg4HUWuHDcu9LIrj/uCm0ybF9BHVUzWJdcQhZqV4ukxrrJN2/JxMnYNXefGEt/ItASZP2DHrXq342mZhb8jw==</FRMA>
+</CAF><TSTED>2018-07-19T09:37:14</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">hHeD5iPeuNh4Rb8vfGLm247s/dIaUiaSl2wVyX6Il4Oyeb8JE14Mt2n43bAhs4ztQEjqkBV+fK8ttV6A9IwrcA==</FRMT>
+</TED>
+		<TmstFirma>2018-07-19T09:37:14</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>c7uRQt+2EwUbHI1u7kFP5e3L9FI=</DigestValue></Reference></SignedInfo><SignatureValue>bYsE/7sEzZxlmePBO/8kVUmNZ7QASEsxCgt5/aQPO9I3GWLy+GXvdhXJhYbfVcuvC0QxJuT27JimNe8SbNyi8UEv/85a3Hmp9ii5cAIhrjk/4ymQYfhIUCGosgUJRv1eydPgUY7zoVnEX7rcKZlWGVDxenvPU7qL2ulmUIq3KMA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tKDUaksxJayljPgk5naIvmJlln64ybSf144Q+1+xo71nD7I7e5lPw3VJLHWw2BeZdR48NgmwW4AO
+JansdSzZomRPjieTHfogEZnkAFWy/q+Y5UBk6B0gq7CnutbDszMwq796G/9Yzacmf7NrDCATiFAd
+MIFAaPOevF6zwjundCk=
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGhTCCBW2gAwIBAgIKHF1L0AAAAAiSbjANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA4MDMyMDM5NDBaFw0xOTA4MDMyMDM5NDBa
+MIIBBzELMAkGA1UEBhMCQ0wxIzAhBgNVBAgTGk1FVFJPUE9MSVRBTkEgREUgU0FOVElBR08gMREw
+DwYDVQQHEwhTYW50aWFnbzEqMCgGA1UEChMhU0lTR0VOIENISUxFIENPTVBVVEFDSU9OIExJTUlU
+QURBMUIwQAYDVQQLEzlTRVJWSUNJT1MgREUgQ09NUFVUQUNJT04gWSBDT01FUkNJQUxJWkFDSU9O
+IERFIFNPRlRXQVJFICAxIzAhBgNVBAMTGkpVQU4gRlJBTkNJU0NPIEhVTkVFVVMgQ09YMSswKQYJ
+KoZIhvcNAQkBFhxhbmdlbC5waW5pbGxhQHNpc2dlbmNoaWxlLmNsMIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQC0oNRqSzElrKWM+CTmdoi+YmWWfrjJtJ/XjhD7X7GjvWcPsjt7mU/DdUksdbDY
+F5l1Hjw2CbBbgA4lqex1LNmiZE+OJ5Md+iARmeQAVbL+r5jlQGToHSCrsKe61sOzMzCrv3ob/1jN
+pyZ/s2sMIBOIUB0wgUBo8568XrPCO6d0KQIDAQABo4ICpzCCAqMwPQYJKwYBBAGCNxUHBDAwLgYm
+KwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhhNWJYoWMtRECAWQCAQQwHQYDVR0OBBYEFCaD
+sny6QsNvCANIGUN44OK2yKFrMAsGA1UdDwQEAwIE8DAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAO
+U7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0
+Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5l
+Y2VydGNoaWxlLmNsL29jc3AwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowMTgxMjE4MC04MCMG
+A1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTCCAU0GA1UdIASCAUQwggFAMIIBPAYI
+KwYBBAHDUgUwggEuMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQUy5o
+dG0wgfwGCCsGAQUFBwICMIHvHoHsAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAEYAaQByAG0AYQAg
+AFMAaQBtAHAAbABlAC4AIABIAGEAIABzAGkAZABvACAAdgBhAGwAaQBkAGEAZABvACAAZQBuACAA
+ZgBvAHIAbQBhACAAcAByAGUAcwBlAG4AYwBpAGEAbAAsACAAcQB1AGUAZABhAG4AZABvACAAaABh
+AGIAaQBsAGkAdABhAGQAbwAgAGUAbAAgAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQByAGEA
+IAB1AHMAbwAgAHQAcgBpAGIAdQB0AGEAcgBpAG8wDQYJKoZIhvcNAQEFBQADggEBABoWhq5f0xQW
+YG3PCOd4h3f2uqZU2GgGuY3ReLM+qIwWqMFegcgveLxWKLgFZ4fxKxNsxARbKEWeJ6AR9tkXs4SH
+ZJBtEYWuaQVl9/k2bmcyv8AiYlw+2OhJaGJHJ+d6wBAeYS3cQn48wMr/pxW8FCNaGl9WCy2FmHtG
+ndMB20i1jVubktTQx/bHmdV4B1+Xl0OdfZqjnIUNvnf2+xcpFkz4x42ZkwnLJa763HLkUKbpTO6p
+U9S1T/5gmtscpiSIT4gS4BZ+MchW0Lrk8MgOF6jrVSA2vmbw4XyaCLB/gUYXtwS/ZzPKnCxIz9Ec
+k4FrFPRR1kDDcYme/bLmAFNBvE8=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

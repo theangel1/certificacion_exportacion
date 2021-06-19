@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T112_F23-2018JulMon091730">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>112</TipoDTE>
+				<Folio>23</Folio>
+				<FchEmis>2018-07-09</FchEmis>
+				<IndServicio>4</IndServicio>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>86972700-8</RUTEmisor>
+				<RznSoc>SOC EDITORIAL CUATRO VIENTOS Y CIA LTDA</RznSoc>
+				<GiroEmis>EDICION PRINCIPALMENTE DE LIBROS</GiroEmis>
+				<CorreoEmisor>emunoz@cuatrovientos.cl</CorreoEmisor>
+				<Acteco>221101</Acteco>
+				<DirOrigen>MATURANA 19</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>ANGEL NETDTE</RznSocRecep>
+				<Extranjero>
+					<Nacionalidad>997</Nacionalidad>
+				</Extranjero>
+				<GiroRecep>SERVICIO DE HOSTING</GiroRecep>
+				<DirRecep>VICUÑA MACKENA 7801</DirRecep>
+			</Receptor>
+			<Totales>
+				<TpoMoneda>YEN</TpoMoneda>
+				<MntExe>60</MntExe>
+				<MntTotal>60</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>5.91</TpoCambio>
+				<MntExeOtrMnda>354.60</MntExeOtrMnda>
+				<MntTotOtrMnda>354.60</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>ALOJAMIENTO WEB</NmbItem>
+			<QtyItem>1</QtyItem>
+			<PrcItem>60.00</PrcItem>
+			<MontoItem>60</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>110</TpoDocRef>
+			<FolioRef>168</FolioRef>
+			<FchRef>2018-07-09</FchRef>
+			<CodRef>1</CodRef>
+			<RazonRef>ANULFA EXP</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>2</NroLinRef>
+			<TpoDocRef>813</TpoDocRef>
+			<FolioRef>175587365</FolioRef>
+			<FchRef>2018-07-05</FchRef>
+			<RazonRef>PASAPORTE</RazonRef>
+		</Referencia>
+		<TED version="1.0">
+			<DD>
+				<RE>86972700-8</RE>
+				<TD>112</TD>
+				<F>23</F>
+				<FE>2018-07-09</FE>
+				<RR>55555555-5</RR>
+				<RSR>ANGEL NETDTE</RSR>
+				<MNT>60</MNT>
+				<IT1>ALOJAMIENTO WEB</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>86972700-8</RE>
+<RS>SOC EDITORIAL CUATRO VIENTOS Y CIA LTDA</RS>
+<TD>112</TD>
+<RNG><D>1</D><H>50</H></RNG>
+<FA>2017-10-04</FA>
+<RSAPK><M>1JWzWw8gVq4uCx2yPWHJyLKG8cP3BWtW3xjv2NDRfERRPQwHLAahubwhKoNkK5VNbM8rGlqCrnGwQXuHVJXILQ==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">IECBc6u9YCyNjzWq7DeKi/1flK3mhWUhUrWic/Rm0I0gbsLq2iO4wSrxSP3U4P/aiLU5R+Lj5pIk9DOHivc2XA==</FRMA>
+</CAF><TSTED>2018-07-09T09:17:30</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">QRHx+QKHpQv8T/svNxZImy+2WP0/3RmwO2YhlzAyaIY0mnsKte5IoM2uTiogcqMs0qE4gCItP+nva+wYN4gAuA==</FRMT>
+</TED>
+		<TmstFirma>2018-07-09T09:17:30</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>TpZnw9+1kx9/gl1h8r1fwH9j3/0=</DigestValue></Reference></SignedInfo><SignatureValue>MClWrIFnPsOMFQKBGbz8PU04BrI+8JRI7JUtxRY5KXgQxJ1NhZKyBmV9fr4VcvQPTOzcAtNtYWx7lWfltzJcUGOqE7HPbStZFk8mtRPEryxrnH296hFBnH8kgQ34kRVYb1mBBsWDDOUz87B4Xt5ZgMZWbSrs14l2IOf2jj42jCU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tKDUaksxJayljPgk5naIvmJlln64ybSf144Q+1+xo71nD7I7e5lPw3VJLHWw2BeZdR48NgmwW4AO
+JansdSzZomRPjieTHfogEZnkAFWy/q+Y5UBk6B0gq7CnutbDszMwq796G/9Yzacmf7NrDCATiFAd
+MIFAaPOevF6zwjundCk=
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGhTCCBW2gAwIBAgIKHF1L0AAAAAiSbjANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA4MDMyMDM5NDBaFw0xOTA4MDMyMDM5NDBa
+MIIBBzELMAkGA1UEBhMCQ0wxIzAhBgNVBAgTGk1FVFJPUE9MSVRBTkEgREUgU0FOVElBR08gMREw
+DwYDVQQHEwhTYW50aWFnbzEqMCgGA1UEChMhU0lTR0VOIENISUxFIENPTVBVVEFDSU9OIExJTUlU
+QURBMUIwQAYDVQQLEzlTRVJWSUNJT1MgREUgQ09NUFVUQUNJT04gWSBDT01FUkNJQUxJWkFDSU9O
+IERFIFNPRlRXQVJFICAxIzAhBgNVBAMTGkpVQU4gRlJBTkNJU0NPIEhVTkVFVVMgQ09YMSswKQYJ
+KoZIhvcNAQkBFhxhbmdlbC5waW5pbGxhQHNpc2dlbmNoaWxlLmNsMIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQC0oNRqSzElrKWM+CTmdoi+YmWWfrjJtJ/XjhD7X7GjvWcPsjt7mU/DdUksdbDY
+F5l1Hjw2CbBbgA4lqex1LNmiZE+OJ5Md+iARmeQAVbL+r5jlQGToHSCrsKe61sOzMzCrv3ob/1jN
+pyZ/s2sMIBOIUB0wgUBo8568XrPCO6d0KQIDAQABo4ICpzCCAqMwPQYJKwYBBAGCNxUHBDAwLgYm
+KwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhhNWJYoWMtRECAWQCAQQwHQYDVR0OBBYEFCaD
+sny6QsNvCANIGUN44OK2yKFrMAsGA1UdDwQEAwIE8DAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAO
+U7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0
+Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5l
+Y2VydGNoaWxlLmNsL29jc3AwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowMTgxMjE4MC04MCMG
+A1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTCCAU0GA1UdIASCAUQwggFAMIIBPAYI
+KwYBBAHDUgUwggEuMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQUy5o
+dG0wgfwGCCsGAQUFBwICMIHvHoHsAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAEYAaQByAG0AYQAg
+AFMAaQBtAHAAbABlAC4AIABIAGEAIABzAGkAZABvACAAdgBhAGwAaQBkAGEAZABvACAAZQBuACAA
+ZgBvAHIAbQBhACAAcAByAGUAcwBlAG4AYwBpAGEAbAAsACAAcQB1AGUAZABhAG4AZABvACAAaABh
+AGIAaQBsAGkAdABhAGQAbwAgAGUAbAAgAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQByAGEA
+IAB1AHMAbwAgAHQAcgBpAGIAdQB0AGEAcgBpAG8wDQYJKoZIhvcNAQEFBQADggEBABoWhq5f0xQW
+YG3PCOd4h3f2uqZU2GgGuY3ReLM+qIwWqMFegcgveLxWKLgFZ4fxKxNsxARbKEWeJ6AR9tkXs4SH
+ZJBtEYWuaQVl9/k2bmcyv8AiYlw+2OhJaGJHJ+d6wBAeYS3cQn48wMr/pxW8FCNaGl9WCy2FmHtG
+ndMB20i1jVubktTQx/bHmdV4B1+Xl0OdfZqjnIUNvnf2+xcpFkz4x42ZkwnLJa763HLkUKbpTO6p
+U9S1T/5gmtscpiSIT4gS4BZ+MchW0Lrk8MgOF6jrVSA2vmbw4XyaCLB/gUYXtwS/ZzPKnCxIz9Ec
+k4FrFPRR1kDDcYme/bLmAFNBvE8=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mikehaertl/phpwkhtmltopdf": "^2.3",
+        "spipu/html2pdf": "^5.1"
+    }
+}

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T112_F1-2018SepWed123032">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>112</TipoDTE>
+				<Folio>1</Folio>
+				<FchEmis>2018-09-05</FchEmis>
+				<FmaPagExp>1</FmaPagExp>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>77629170-6</RUTEmisor>
+				<RznSoc>JOSE BRAVO CORREA Y COMPANIA LIMITADA </RznSoc>
+				<GiroEmis>VENTA AL POR MAYOR DE MATERIALES DE CONSTRUCCION, ARTICULOS DE FERRETERIA</GiroEmis>
+				<CorreoEmisor>josebravocorrea@tie.cl</CorreoEmisor>
+				<Acteco>514320</Acteco>
+				<DirOrigen>DIEZ DE JULIO 145</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>NETDTE ENTERPRISE</RznSocRecep>
+				<GiroRecep>SERVICIOS INFORMATICOS</GiroRecep>
+				<DirRecep>LAGO COCHRANE 4920</DirRecep>
+			</Receptor>
+			<Transporte>
+				<Aduana>
+					<CodModVenta>9</CodModVenta>
+					<CodClauVenta>2</CodClauVenta>
+					<TotClauVenta>5122.73</TotClauVenta>
+					<CodViaTransp>8</CodViaTransp>
+					<CodPtoEmbarque>907</CodPtoEmbarque>
+					<CodPtoDesemb>285</CodPtoDesemb>
+					<CodUnidMedTara>9</CodUnidMedTara>
+					<CodUnidPesoBruto>16</CodUnidPesoBruto>
+					<CodUnidPesoNeto>16</CodUnidPesoNeto>
+					<TotBultos>95</TotBultos>
+					<TipoBultos>
+						<CodTpoBultos>18</CodTpoBultos>
+						<CantBultos>95</CantBultos>
+						<Marcas>BULTOSFC</Marcas>
+					</TipoBultos>
+					<MntFlete>4373.73</MntFlete>
+					<MntSeguro>3734.25</MntSeguro>
+					<CodPaisRecep>201</CodPaisRecep>
+					<CodPaisDestin>201</CodPaisDestin>
+				</Aduana>
+			</Transporte>
+			<Totales>
+				<TpoMoneda>YEN</TpoMoneda>
+				<MntExe>58830</MntExe>
+				<MntTotal>58830</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>6.20</TpoCambio>
+				<MntExeOtrMnda>364746.00</MntExeOtrMnda>
+				<MntTotOtrMnda>364746.00</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>CHATARRA DE ALUMINIO</NmbItem>
+			<QtyItem>318</QtyItem>
+			<UnmdItem>MCUB</UnmdItem>
+			<PrcItem>185.00</PrcItem>
+			<MontoItem>58830</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>SET</TpoDocRef>
+			<FolioRef>112</FolioRef>
+			<FchRef>2018-09-05</FchRef>
+			<RazonRef>CASO 1006351-2</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>2</NroLinRef>
+			<TpoDocRef>110</TpoDocRef>
+			<FolioRef>1</FolioRef>
+			<FchRef>2018-09-05</FchRef>
+			<CodRef>3</CodRef>
+			<RazonRef>DEVOLUCION DE MERCADERIAS</RazonRef>
+		</Referencia>
+		<TED version="1.0">
+			<DD>
+				<RE>77629170-6</RE>
+				<TD>112</TD>
+				<F>1</F>
+				<FE>2018-09-05</FE>
+				<RR>55555555-5</RR>
+				<RSR>NETDTE ENTERPRISE</RSR>
+				<MNT>58830</MNT>
+				<IT1>CHATARRA DE ALUMINIO</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>77629170-6</RE>
+<RS>JOSE BRAVO CORREA Y COMPANIA LIMITADA</RS>
+<TD>112</TD>
+<RNG><D>1</D><H>50</H></RNG>
+<FA>2018-09-05</FA>
+<RSAPK><M>wxSPd8vARmGTx3HbWg6f83HIcgb00ptV3e14SXq++xfXapGOIOPZU+ZmnrOnOkAgOCyoPQ5113oHiWcCEbqLTQ==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">BDjb3y86BLtFWjsQKROaKBjc/mcIKpUsJBzqvRaNs/Jj27pkPccp5MoxQaJQPtjFru8E9owJZdgsNoe7ptYa9g==</FRMA>
+</CAF><TSTED>2018-09-05T12:30:32</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">tNI5SqO1TcucUp/yQd6cFL8YWmS72LqgL5EU/RfXIC8UFGCG4wlCxWjjnt1o7c4ikGHt40u8Pm3p0E8Ojqxghg==</FRMT>
+</TED>
+		<TmstFirma>2018-09-05T12:30:32</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>Lp+QcaVYOllYylT4y8ot87ZnVaU=</DigestValue></Reference></SignedInfo><SignatureValue>qoMtI7zEPtyuqLYnvLAvDCzH22mTPURY6v9esyIrRMsZndjHxTfTKb6+Sq1fegmJzz/RT8LIgm0qs+0G9Xbfz3PTeVOA3QnN/n04ww9dgAitYKrSMJb/IdNg3rrhboRdd3y3czg36P94bfKMVDPvSFWJpA4efSTXVLITyit4vxIlupjyxZ2Cu+7SJzJy7cAygCE7cMwmumjeDFQMADrjiwW7/48YN0fKEh/ckZAhY7VEiJD8A58WzdfI2tfS+hwgOJOeaC9Rc6KNs80Dzo0DmTTvnNmybxPgrb2PacTivbEQCogKyiqajcYEoo2pfRu9t8N/JsaZw26VH8HP4suygg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zY7i1C1DednCf5ouycCMvYA6Wivn8C8UqMZ1p2XhOBbnhQdZMtht9FH38MO5J/vjxaeU8PVpKNFq
+DJE8j/oqeh05HELuWVBsKZ9G5T73T96QrkdSuKOFKiJmqf3IS04bqxj8EtN/m9W7+TnbvlsiIgKw
+2kOiA94D/XVUDB1SST4pU2yUeuVSs2f2kqU04SYcHOjJ8Q/KcBEfnadDe1/fASusIC5KJvOBpZhV
+6ZHzvmkqgPv2GkAQVmrukMHDWEPkH9GrAcn0bJFhwfSMQkeFDHY62hthlvUPqKVbQZUXjSziKmG8
+Uvi7RLXvwUdJyrtATzSA/50SuIeUQf6/bU8q7w==
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGcDCCBVigAwIBAgIDAVEmMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xNzEwMDIxOTMzMDRaFw0yMDEwMDIx
+OTMzMDRaMIGHMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSMwIQYDVQQD
+ExpKT1NFIE1BVVJJQ0lPIEJSQVZPIENPUlJFQTElMCMGCSqGSIb3DQEJARYWam9zZWJyYXZvY29y
+cmVhQHRpZS5jbDESMBAGA1UEBRMJOTEyMTMxMS03MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAzY7i1C1DednCf5ouycCMvYA6Wivn8C8UqMZ1p2XhOBbnhQdZMtht9FH38MO5J/vjxaeU
+8PVpKNFqDJE8j/oqeh05HELuWVBsKZ9G5T73T96QrkdSuKOFKiJmqf3IS04bqxj8EtN/m9W7+Tnb
+vlsiIgKw2kOiA94D/XVUDB1SST4pU2yUeuVSs2f2kqU04SYcHOjJ8Q/KcBEfnadDe1/fASusIC5K
+JvOBpZhV6ZHzvmkqgPv2GkAQVmrukMHDWEPkH9GrAcn0bJFhwfSMQkeFDHY62hthlvUPqKVbQZUX
+jSziKmG8Uvi7RLXvwUdJyrtATzSA/50SuIeUQf6/bU8q7wIDAQABo4ICwjCCAr4wHwYDVR0jBBgw
+FoAUZaWrPj/ItlFtEX5fwwoH5kOgCLYwHQYDVR0OBBYEFEZN2dTJJq/YRAMeswESDEI0bLFEMAsG
+A1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQD
+AgWgMIH1BgNVHSAEge0wgeowgecGCCsGAQQBtWsCMIHaMDEGCCsGAQUFBwIBFiVodHRwczovL2Fj
+ZzQuYWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMIGkBggrBgEFBQcCAjCBlzAWFg9BY2VwdGEuY29t
+IFMuQS4wAwIBCRp9RWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRvIGVuIGZvcm1hIG9ubGluZSwg
+cXVlZGFuZG8gaGFiaWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvLCBw
+YWdvcywgY29tZXJjaW8geSBvdHJvcy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1
+MC04oCQGCCsGAQUFBwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNv
+bTBfBgNVHREEWDBWoBcGCCsGAQQBwQEBoAsWCTkxMjEzMTEtN6AjBggrBgEFBQcIA6AXMBUMCTkx
+MjEzMTEtNwYIKwYBBAHBAQKBFmpvc2VicmF2b2NvcnJlYUB0aWUuY2wwRwYIKwYBBQUHAQEEOzA5
+MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0
+MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNl
+Mi1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBAK1Irk+ZpWfv2tRdlaV0M5Gf5wjIvzweBObuupiS
+FYP9pd8LsvTaDXsnpRQuXT9DATEaiDdc9Zqp721Fm8ycTJsU75iVuier+qSroGtu+/3MHXCThHGu
+fQwobAHPxy5K4TeT1kb8MCLSGQ4Vz4ZT+SyHyXjx0oUoCu50glmrRrzoczsSgp53TbgHQMHJUWFr
+Rv59Qo269Ho4IRXCc2NNZg9Rh0gbE/isa0Twjavb/HjPQqba59z818dL1+78ZRRFyv9TJXGXkaQz
+1ClrUC0fWZ3Acqh2G7hDAAj4rR09XOintrXmgamEIXu08UfektJWItGSVvpXaiTJoorbwlvZ3o4=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

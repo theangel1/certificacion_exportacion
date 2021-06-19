@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T110_F-2018JulWed000752">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>110</TipoDTE>
+				<FchEmis>2018-07-18</FchEmis>
+				<FmaPagExp>1</FmaPagExp>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>86972700-8</RUTEmisor>
+				<RznSoc>SOC EDITORIAL CUATRO VIENTOS Y CIA LTDA</RznSoc>
+				<GiroEmis>EDICION PRINCIPALMENTE DE LIBROS</GiroEmis>
+				<CorreoEmisor>angel.pinilla@outlook.es</CorreoEmisor>
+				<Acteco>221101</Acteco>
+				<DirOrigen>MATURANA 19</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>asdasd</RznSocRecep>
+				<GiroRecep>asdad</GiroRecep>
+				<DirRecep>asdasd</DirRecep>
+			</Receptor>
+			<Totales>
+				<TpoMoneda>BOLIVIANO</TpoMoneda>
+				<MntExe>43</MntExe>
+				<MntTotal>43</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>345.00</TpoCambio>
+				<MntExeOtrMnda>14835.00</MntExeOtrMnda>
+				<MntTotOtrMnda>14835.00</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>prod</NmbItem>
+			<QtyItem>1</QtyItem>
+			<PrcItem>43.00</PrcItem>
+			<MontoItem>43</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem></NmbItem>
+			<MontoItem>0</MontoItem>
+		</Detalle>
+		<TED version="1.0">
+			<DD>
+				<RE>86972700-8</RE>
+				<TD>110</TD>
+				<FE>2018-07-18</FE>
+				<RR>55555555-5</RR>
+				<RSR>asdasd</RSR>
+				<MNT>43</MNT>
+				<IT1>prod</IT1>
+				<TSTED>2018-07-18T00:07:52</TSTED>
+			</DD>
+		</TED>
+		<TmstFirma>2018-07-18T00:07:52</TmstFirma>
+	</Exportaciones>
+</DTE>

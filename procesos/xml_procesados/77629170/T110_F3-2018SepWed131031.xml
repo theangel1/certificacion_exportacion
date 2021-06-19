@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T110_F3-2018SepWed131031">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>110</TipoDTE>
+				<Folio>3</Folio>
+				<FchEmis>2018-09-05</FchEmis>
+				<FmaPagExp>32</FmaPagExp>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>77629170-6</RUTEmisor>
+				<RznSoc>JOSE BRAVO CORREA Y COMPANIA LIMITADA </RznSoc>
+				<GiroEmis>VENTA AL POR MAYOR DE MATERIALES DE CONSTRUCCION, ARTICULOS DE FERRETERIA</GiroEmis>
+				<CorreoEmisor>josebravocorrea@tie.cl</CorreoEmisor>
+				<Acteco>514320</Acteco>
+				<DirOrigen>DIEZ DE JULIO 145</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>NETDTE ENTERPRISE</RznSocRecep>
+				<GiroRecep>SERVICIOS INFORMATICOS</GiroRecep>
+				<DirRecep>LAGO COCHRANE 4920</DirRecep>
+			</Receptor>
+			<Transporte>
+				<Aduana>
+					<CodModVenta>3</CodModVenta>
+					<CodClauVenta>1</CodClauVenta>
+					<TotClauVenta>3016.49</TotClauVenta>
+					<CodViaTransp>6</CodViaTransp>
+					<CodPtoEmbarque>902</CodPtoEmbarque>
+					<CodPtoDesemb>242</CodPtoDesemb>
+					<CodUnidMedTara>6</CodUnidMedTara>
+					<CodUnidPesoBruto>17</CodUnidPesoBruto>
+					<CodUnidPesoNeto>17</CodUnidPesoNeto>
+					<TotBultos>60</TotBultos>
+					<TipoBultos>
+						<CodTpoBultos>89</CodTpoBultos>
+						<CantBultos>60</CantBultos>
+						<Marcas>BULTOSFC</Marcas>
+					</TipoBultos>
+					<MntFlete>1516.53</MntFlete>
+					<MntSeguro>762.43</MntSeguro>
+					<CodPaisRecep>218</CodPaisRecep>
+					<CodPaisDestin>218</CodPaisDestin>
+				</Aduana>
+			</Transporte>
+			<Totales>
+				<TpoMoneda>FRANCO SZ</TpoMoneda>
+				<MntExe>107338.77</MntExe>
+				<MntTotal>107338.77</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>708.76</TpoCambio>
+				<MntExeOtrMnda>76077426.63</MntExeOtrMnda>
+				<MntTotOtrMnda>76077426.63</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>CAJAS CIRUELAS TIERNIZADAS SIN CAROZO CALIBRE 60/70</NmbItem>
+			<QtyItem>603</QtyItem>
+			<UnmdItem>KN</UnmdItem>
+			<PrcItem>150.00</PrcItem>
+			<DescuentoPct>5</DescuentoPct>
+			<DescuentoMonto>4523</DescuentoMonto>
+			<MontoItem>85928</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>CAJAS DE PASAS DE UVA FLAME MORENA SIN SEMILLA MEDIANAS</NmbItem>
+			<QtyItem>200</QtyItem>
+			<UnmdItem>KN</UnmdItem>
+			<PrcItem>94.00</PrcItem>
+			<MontoItem>18800</MontoItem>
+		</Detalle>
+		<DscRcgGlobal>
+			<NroLinDR>1</NroLinDR>
+			<TpoMov>R</TpoMov>
+			<GlosaDR>COMISIONES EN EL EXTRANJERO</GlosaDR>
+			<TpoValor>$</TpoValor>
+			<ValorDR>331.81</ValorDR>
+			<IndExeDR>1</IndExeDR>
+		</DscRcgGlobal>
+		<DscRcgGlobal>
+			<NroLinDR>2</NroLinDR>
+			<TpoMov>R</TpoMov>
+			<GlosaDR>FLETE</GlosaDR>
+			<TpoValor>$</TpoValor>
+			<ValorDR>1516.53</ValorDR>
+			<IndExeDR>1</IndExeDR>
+		</DscRcgGlobal>
+		<DscRcgGlobal>
+			<NroLinDR>3</NroLinDR>
+			<TpoMov>R</TpoMov>
+			<GlosaDR>SEGURO</GlosaDR>
+			<TpoValor>$</TpoValor>
+			<ValorDR>762.43</ValorDR>
+			<IndExeDR>1</IndExeDR>
+		</DscRcgGlobal>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>SET</TpoDocRef>
+			<FolioRef>110</FolioRef>
+			<FchRef>2018-09-05</FchRef>
+			<RazonRef>CASO 1006352-2</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>2</NroLinRef>
+			<TpoDocRef>807</TpoDocRef>
+			<FolioRef>110</FolioRef>
+			<FchRef>2018-09-05</FchRef>
+			<RazonRef>DUS</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>3</NroLinRef>
+			<TpoDocRef>809</TpoDocRef>
+			<FolioRef>110</FolioRef>
+			<FchRef>2018-09-05</FchRef>
+			<RazonRef>AWB</RazonRef>
+		</Referencia>
+		<TED version="1.0">
+			<DD>
+				<RE>77629170-6</RE>
+				<TD>110</TD>
+				<F>3</F>
+				<FE>2018-09-05</FE>
+				<RR>55555555-5</RR>
+				<RSR>NETDTE ENTERPRISE</RSR>
+				<MNT>107338.77</MNT>
+				<IT1>CAJAS CIRUELAS TIERNIZADAS SIN CAROZO CA</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>77629170-6</RE>
+<RS>JOSE BRAVO CORREA Y COMPANIA LIMITADA</RS>
+<TD>110</TD>
+<RNG><D>1</D><H>50</H></RNG>
+<FA>2018-09-05</FA>
+<RSAPK><M>sTwcEKxPqSNwVlr0sxZ/8T1J+apNgsr2sJC44vppCqCtTUpqKo3Q3/xffPOGJIBoHAAQxQ0RnGbWYTcr84bSiQ==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">ojrXjGy1VqV/TKI/6V+GmKA1FP61DLX6n+3GU3DbeEr+Yh6qs70ZRVM2wUYy6zZpnYOTH+fBxgoVqwk8zoiTYg==</FRMA>
+</CAF><TSTED>2018-09-05T13:10:31</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">D+Yg7yOqwxAbOR74gAbT1wfF/9sx+njoYHpabU0dPXxFvXLJeg1Rdiqcf+GQ8/3i+8PPJd1CYMgEIC72bT75yA==</FRMT>
+</TED>
+		<TmstFirma>2018-09-05T13:10:31</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>VaZ8BpxtOTYBWwrmTGhZno5rNAw=</DigestValue></Reference></SignedInfo><SignatureValue>Fip2PDkaYFCtiCckSz7kv63UfN3UV/nVAB4wRU7EKE4yx0SFyXEM+gXyl0PBeqxTsYFSz7LHA0oppEmncSCXt0NahVes3YXTlgtexn7dAiAPSkpgqHrJKhiEoGlRw/PhBlrAa3eF5ZwtGVY8DAyakf+/0yGK6sRvJdiubz816FOONtTQURn/7WgLWZFQBcEZtkRjXbPkxWpGM5QFZPqKG1/EO+7ZuZlQtojJTEhQSO9o6VRZGQ/TqiCetSnYsD5RYgHw1yy+vK3vIWcotmYVEn+454GwUgbq8DzWd3cUsqehJ/ABZqTMJ8lstfgHGzyGMcMObeBzxzkcf5NTIwUkrQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zY7i1C1DednCf5ouycCMvYA6Wivn8C8UqMZ1p2XhOBbnhQdZMtht9FH38MO5J/vjxaeU8PVpKNFq
+DJE8j/oqeh05HELuWVBsKZ9G5T73T96QrkdSuKOFKiJmqf3IS04bqxj8EtN/m9W7+TnbvlsiIgKw
+2kOiA94D/XVUDB1SST4pU2yUeuVSs2f2kqU04SYcHOjJ8Q/KcBEfnadDe1/fASusIC5KJvOBpZhV
+6ZHzvmkqgPv2GkAQVmrukMHDWEPkH9GrAcn0bJFhwfSMQkeFDHY62hthlvUPqKVbQZUXjSziKmG8
+Uvi7RLXvwUdJyrtATzSA/50SuIeUQf6/bU8q7w==
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGcDCCBVigAwIBAgIDAVEmMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xNzEwMDIxOTMzMDRaFw0yMDEwMDIx
+OTMzMDRaMIGHMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSMwIQYDVQQD
+ExpKT1NFIE1BVVJJQ0lPIEJSQVZPIENPUlJFQTElMCMGCSqGSIb3DQEJARYWam9zZWJyYXZvY29y
+cmVhQHRpZS5jbDESMBAGA1UEBRMJOTEyMTMxMS03MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAzY7i1C1DednCf5ouycCMvYA6Wivn8C8UqMZ1p2XhOBbnhQdZMtht9FH38MO5J/vjxaeU
+8PVpKNFqDJE8j/oqeh05HELuWVBsKZ9G5T73T96QrkdSuKOFKiJmqf3IS04bqxj8EtN/m9W7+Tnb
+vlsiIgKw2kOiA94D/XVUDB1SST4pU2yUeuVSs2f2kqU04SYcHOjJ8Q/KcBEfnadDe1/fASusIC5K
+JvOBpZhV6ZHzvmkqgPv2GkAQVmrukMHDWEPkH9GrAcn0bJFhwfSMQkeFDHY62hthlvUPqKVbQZUX
+jSziKmG8Uvi7RLXvwUdJyrtATzSA/50SuIeUQf6/bU8q7wIDAQABo4ICwjCCAr4wHwYDVR0jBBgw
+FoAUZaWrPj/ItlFtEX5fwwoH5kOgCLYwHQYDVR0OBBYEFEZN2dTJJq/YRAMeswESDEI0bLFEMAsG
+A1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQD
+AgWgMIH1BgNVHSAEge0wgeowgecGCCsGAQQBtWsCMIHaMDEGCCsGAQUFBwIBFiVodHRwczovL2Fj
+ZzQuYWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMIGkBggrBgEFBQcCAjCBlzAWFg9BY2VwdGEuY29t
+IFMuQS4wAwIBCRp9RWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRvIGVuIGZvcm1hIG9ubGluZSwg
+cXVlZGFuZG8gaGFiaWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvLCBw
+YWdvcywgY29tZXJjaW8geSBvdHJvcy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1
+MC04oCQGCCsGAQUFBwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNv
+bTBfBgNVHREEWDBWoBcGCCsGAQQBwQEBoAsWCTkxMjEzMTEtN6AjBggrBgEFBQcIA6AXMBUMCTkx
+MjEzMTEtNwYIKwYBBAHBAQKBFmpvc2VicmF2b2NvcnJlYUB0aWUuY2wwRwYIKwYBBQUHAQEEOzA5
+MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0
+MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNl
+Mi1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBAK1Irk+ZpWfv2tRdlaV0M5Gf5wjIvzweBObuupiS
+FYP9pd8LsvTaDXsnpRQuXT9DATEaiDdc9Zqp721Fm8ycTJsU75iVuier+qSroGtu+/3MHXCThHGu
+fQwobAHPxy5K4TeT1kb8MCLSGQ4Vz4ZT+SyHyXjx0oUoCu50glmrRrzoczsSgp53TbgHQMHJUWFr
+Rv59Qo269Ho4IRXCc2NNZg9Rh0gbE/isa0Twjavb/HjPQqba59z818dL1+78ZRRFyv9TJXGXkaQz
+1ClrUC0fWZ3Acqh2G7hDAAj4rR09XOintrXmgamEIXu08UfektJWItGSVvpXaiTJoorbwlvZ3o4=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

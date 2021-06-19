@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T112_F82-2018JulMon122035">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>112</TipoDTE>
+				<Folio>82</Folio>
+				<FchEmis>2018-07-23</FchEmis>
+				<FmaPagExp>32</FmaPagExp>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76036954-3</RUTEmisor>
+				<RznSoc>EVOOFOODS EXPORTADORA LIMITADA</RznSoc>
+				<GiroEmis>IMPL Y ADMIN DE PROY AGRICOLAS-IMPORT EXP COMERC Y CORRETAJE DE PROD ALIMENTICIO</GiroEmis>
+				<CorreoEmisor>VENTAS@EVOOFOODS.CL</CorreoEmisor>
+				<Acteco>521900</Acteco>
+				<DirOrigen>CARRETERA GENERAL SAN MARTIN 9340 GALPON U6</DirOrigen>
+				<CmnaOrigen>QUILICURA</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>NETDTE EXPORTACION</RznSocRecep>
+				<GiroRecep>SERVICIOS INFORMATICOS</GiroRecep>
+				<DirRecep>LAGO COCHRANE 4920</DirRecep>
+			</Receptor>
+			<Transporte>
+				<Aduana>
+					<CodModVenta>3</CodModVenta>
+					<CodClauVenta>1</CodClauVenta>
+					<TotClauVenta>2890.50</TotClauVenta>
+					<CodViaTransp>6</CodViaTransp>
+					<CodPtoEmbarque>902</CodPtoEmbarque>
+					<CodPtoDesemb>242</CodPtoDesemb>
+					<CodUnidMedTara>10</CodUnidMedTara>
+					<CodUnidPesoBruto>17</CodUnidPesoBruto>
+					<CodUnidPesoNeto>17</CodUnidPesoNeto>
+					<TotBultos>58</TotBultos>
+					<TipoBultos>
+						<CodTpoBultos>89</CodTpoBultos>
+						<CantBultos>58</CantBultos>
+						<Marcas>3TYU</Marcas>
+					</TipoBultos>
+					<MntFlete>1392.50</MntFlete>
+					<MntSeguro>670.84</MntSeguro>
+					<CodPaisRecep>218</CodPaisRecep>
+					<CodPaisDestin>218</CodPaisDestin>
+				</Aduana>
+			</Transporte>
+			<Totales>
+				<TpoMoneda>FRANCO SZ</TpoMoneda>
+				<MntExe>28712</MntExe>
+				<MntTotal>28712</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>667.38</TpoCambio>
+				<MntExeOtrMnda>19161814.56</MntExeOtrMnda>
+				<MntTotOtrMnda>19161814.56</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>CHATARRA DE ALUMINIO</NmbItem>
+			<QtyItem>194</QtyItem>
+			<UnmdItem>PAR</UnmdItem>
+			<PrcItem>148.00</PrcItem>
+			<MontoItem>28712</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>SET</TpoDocRef>
+			<FolioRef>112</FolioRef>
+			<FchRef>2018-07-23</FchRef>
+			<RazonRef>CASO 980418-2</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>2</NroLinRef>
+			<TpoDocRef>110</TpoDocRef>
+			<FolioRef>201</FolioRef>
+			<FchRef>2018-07-23</FchRef>
+			<CodRef>3</CodRef>
+			<RazonRef>DEVOLUCION DE MERCADERIAS</RazonRef>
+		</Referencia>
+		<TED version="1.0">
+			<DD>
+				<RE>76036954-3</RE>
+				<TD>112</TD>
+				<F>82</F>
+				<FE>2018-07-23</FE>
+				<RR>55555555-5</RR>
+				<RSR>NETDTE EXPORTACION</RSR>
+				<MNT>28712</MNT>
+				<IT1>CHATARRA DE ALUMINIO</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>76036954-3</RE>
+<RS>EVOOFOODS EXPORTADORA LIMITADA</RS>
+<TD>112</TD>
+<RNG><D>81</D><H>130</H></RNG>
+<FA>2018-07-23</FA>
+<RSAPK><M>v3h8KHAvBYpncVf+CYcCCktW91iuI/bKopg1FkuoeaJBSrv8CQYyapcCigDldBC58Hmj/JMtvY2erpDxmY1ynw==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">hGq2iZy6IgiklMbXFIFj0I7OD+FOIO7o8E7hHmtSbUPSKjEkEPzmHnFXtSlVRVQKjtjvdmdu8WvQbr6FYonr/Q==</FRMA>
+</CAF><TSTED>2018-07-23T12:20:35</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">CekyBOtm6k0u+0WORG0m5y26M/M1AmupVGalPFVuTesWTVF7B8FucpDhoPtBxIcIFnPmjnITQLuXORamOAc1cQ==</FRMT>
+</TED>
+		<TmstFirma>2018-07-23T12:20:35</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>bMmfeUVybEZ0xKJmhR/Qqv3sI/Q=</DigestValue></Reference></SignedInfo><SignatureValue>BLPdr3MJZ/IS2H3HVlwwNobKpL+eq6dFPXA4rmYB4qu6zfLspyJn5IFULy1ycW1PFVBSpEG6oaUYsSKExMRLsb4l8lVPzV134KLGNkq/DiSZv5VYAsUYFlApVzAP8HLDu91/ZfZE1Gx9P7IDTUfj6w1HmcBgPuQ2xcmNVarMQ2g=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pDdSxMFncfeKFlsF4i+3naK6TTRBlJv0qk05tvWWcd/sh3VBrdTrSW4nneOMjoJ6Uk8qhAINaHBt
+tIrrCk99NRSGY4URZ+lKj58GZkEwV4D+ebdPRTOgM9YfWcKCMElCzF6EIU77zDiZvNZnhjEXGf8N
+WFxvGX0/PA/ZyBvV9YE=
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGVTCCBT2gAwIBAgIKcCJGEQAAAAmHdjANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzEyMTIxODQ3NDlaFw0yMDEyMTExODQ3NDla
+MIHYMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMR4wHAYDVQQKExVTSVNHRU4gQ0hJTEUgTElNSVRBREExHzAdBgNVBAsT
+FlNFUlZJQ0lPUyBJTkZPUk1BVElDT1MxJDAiBgNVBAMTG0xBVVRBUk8gQVJUVVJPIExFSVZBIERJ
+TVRFUjEqMCgGCSqGSIb3DQEJARYbam9yZ2UubXVqaWNhQHNpc2dlbmNoaWxlLmNsMIGfMA0GCSqG
+SIb3DQEBAQUAA4GNADCBiQKBgQCkN1LEwWdx94oWWwXiL7edorpNNEGUm/SqTTm29ZZx3+yHdUGt
+1OtJbied44yOgnpSTyqEAg1ocG20iusKT301FIZjhRFn6UqPnwZmQTBXgP55t09FM6Az1h9ZwoIw
+SULMXoQhTvvMOJm81meGMRcZ/w1YXG8ZfT88D9nIG9X1gQIDAQABo4ICpzCCAqMwPQYJKwYBBAGC
+NxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwHQYD
+VR0OBBYEFAXQr1BTAzWbYIMKfdYsbbkdyj+jMAsGA1UdDwQEAwIE8DAfBgNVHSMEGDAWgBR44T6f
+0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxl
+LmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRw
+Oi8vb2NzcC5lY2VydGNoaWxlLmNsL29jc3AwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTc0
+ODg4MS05MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTCCAU0GA1UdIASCAUQw
+ggFAMIIBPAYIKwYBBAHDUgUwggEuMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxl
+LmNsL0NQUy5odG0wgfwGCCsGAQUFBwICMIHvHoHsAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAEYA
+aQByAG0AYQAgAFMAaQBtAHAAbABlAC4AIABIAGEAIABzAGkAZABvACAAdgBhAGwAaQBkAGEAZABv
+ACAAZQBuACAAZgBvAHIAbQBhACAAcAByAGUAcwBlAG4AYwBpAGEAbAAsACAAcQB1AGUAZABhAG4A
+ZABvACAAaABhAGIAaQBsAGkAdABhAGQAbwAgAGUAbAAgAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AHAAYQByAGEAIAB1AHMAbwAgAHQAcgBpAGIAdQB0AGEAcgBpAG8wDQYJKoZIhvcNAQEFBQADggEB
+AEZrLwjkiKNxxTYqKzX6OTFwC7V9q0mDKKCiNBLDLTEqtLMaoedCPhSXsLHnEpa2pVvOMIqUrZud
+QKn7ZmS7/PYd7694+NIS5MsOHrfo4v89Y0zvl+XqwTWk+PGD3xCHJxapl+K1XFUQqjD4+ZkmHFUf
+3F9xVzjZBcJ6ojt0ySwBuDf0ohXKpc+NPt3Mq4PUWz02hPn5i8ejghB1zG/O+Y1Khbw5DaKs53Yd
+oN0qf/BA6c7JBEi23U6usOVzSuYgcqLPVgztc2TW6809gio5Q2u35k9nMwN5nruqy9mMhfhF4lN8
+OiysrcDzcsZ8854cMzx61DUxYAV7Xoy0BHL/QSU=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

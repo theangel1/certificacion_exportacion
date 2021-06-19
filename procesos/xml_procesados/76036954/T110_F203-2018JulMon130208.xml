@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T110_F203-2018JulMon130208">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>110</TipoDTE>
+				<Folio>203</Folio>
+				<FchEmis>2018-07-23</FchEmis>
+				<FmaPagExp>2</FmaPagExp>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76036954-3</RUTEmisor>
+				<RznSoc>EVOOFOODS EXPORTADORA LIMITADA</RznSoc>
+				<GiroEmis>IMPL Y ADMIN DE PROY AGRICOLAS-IMPORT EXP COMERC Y CORRETAJE DE PROD ALIMENTICIO</GiroEmis>
+				<CorreoEmisor>angel.pinilla@outlook.es</CorreoEmisor>
+				<Acteco>521900</Acteco>
+				<DirOrigen>CARRETERA GENERAL SAN MARTIN 9340 GALPON U6</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>NETDTE EXPORTACION</RznSocRecep>
+				<GiroRecep>SERVICIOS INFORMATICOS</GiroRecep>
+				<DirRecep>LAGO COCHRANE 4920</DirRecep>
+			</Receptor>
+			<Transporte>
+				<Aduana>
+					<CodModVenta>2</CodModVenta>
+					<CodClauVenta>1</CodClauVenta>
+					<TotClauVenta>2611.16</TotClauVenta>
+					<CodViaTransp>7</CodViaTransp>
+					<CodPtoEmbarque>904</CodPtoEmbarque>
+					<CodPtoDesemb>411</CodPtoDesemb>
+					<CodUnidMedTara>10</CodUnidMedTara>
+					<CodUnidPesoBruto>17</CodUnidPesoBruto>
+					<CodUnidPesoNeto>17</CodUnidPesoNeto>
+					<TotBultos>54</TotBultos>
+					<TipoBultos>
+						<CodTpoBultos>80</CodTpoBultos>
+						<CantBultos>54</CantBultos>
+						<Marcas>EXF458</Marcas>
+					</TipoBultos>
+					<MntFlete>1136.36</MntFlete>
+					<MntSeguro>494.54</MntSeguro>
+					<CodPaisRecep>336</CodPaisRecep>
+					<CodPaisDestin>336</CodPaisDestin>
+				</Aduana>
+			</Transporte>
+			<Totales>
+				<TpoMoneda>EURO</TpoMoneda>
+				<MntExe>92090.1</MntExe>
+				<MntTotal>92090.1</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>775.70</TpoCambio>
+				<MntExeOtrMnda>71434290.57</MntExeOtrMnda>
+				<MntTotOtrMnda>71434290.57</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>CAJAS CIRUELAS TIERNIZADAS SIN CAROZO CALIBRE 60/70</NmbItem>
+			<QtyItem>535</QtyItem>
+			<UnmdItem>KN</UnmdItem>
+			<PrcItem>144.00</PrcItem>
+			<DescuentoPct>5</DescuentoPct>
+			<DescuentoMonto>3852</DescuentoMonto>
+			<MontoItem>73188</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>CAJAS DE PASAS DE UVA FLAME MORENA SIN SEMILLA MEDIANAS</NmbItem>
+			<QtyItem>193</QtyItem>
+			<UnmdItem>KN</UnmdItem>
+			<PrcItem>88.00</PrcItem>
+			<MontoItem>16984</MontoItem>
+		</Detalle>
+		<DscRcgGlobal>
+			<NroLinDR>1</NroLinDR>
+			<TpoMov>R</TpoMov>
+			<GlosaDR>COMISIONES EN EL EXTRANJERO</GlosaDR>
+			<TpoValor>$</TpoValor>
+			<ValorDR>287.2</ValorDR>
+			<IndExeDR>1</IndExeDR>
+		</DscRcgGlobal>
+		<DscRcgGlobal>
+			<NroLinDR>2</NroLinDR>
+			<TpoMov>R</TpoMov>
+			<GlosaDR>FLETE</GlosaDR>
+			<TpoValor>$</TpoValor>
+			<ValorDR>1136.36</ValorDR>
+			<IndExeDR>1</IndExeDR>
+		</DscRcgGlobal>
+		<DscRcgGlobal>
+			<NroLinDR>3</NroLinDR>
+			<TpoMov>R</TpoMov>
+			<GlosaDR>SEGURO</GlosaDR>
+			<TpoValor>$</TpoValor>
+			<ValorDR>494.54</ValorDR>
+			<IndExeDR>1</IndExeDR>
+		</DscRcgGlobal>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>SET</TpoDocRef>
+			<FolioRef>110</FolioRef>
+			<FchRef>2018-07-23</FchRef>
+			<RazonRef>CASO 980419-2</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>2</NroLinRef>
+			<TpoDocRef>807</TpoDocRef>
+			<FolioRef>202</FolioRef>
+			<FchRef>2018-07-23</FchRef>
+			<RazonRef>DUS</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>3</NroLinRef>
+			<TpoDocRef>809</TpoDocRef>
+			<FolioRef>202</FolioRef>
+			<FchRef>2018-07-23</FchRef>
+			<RazonRef>AWB</RazonRef>
+		</Referencia>
+		<TED version="1.0">
+			<DD>
+				<RE>76036954-3</RE>
+				<TD>110</TD>
+				<F>203</F>
+				<FE>2018-07-23</FE>
+				<RR>55555555-5</RR>
+				<RSR>NETDTE EXPORTACION</RSR>
+				<MNT>92090.1</MNT>
+				<IT1>CAJAS CIRUELAS TIERNIZADAS SIN CAROZO CA</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>76036954-3</RE>
+<RS>EVOOFOODS EXPORTADORA LIMITADA</RS>
+<TD>110</TD>
+<RNG><D>201</D><H>300</H></RNG>
+<FA>2018-07-23</FA>
+<RSAPK><M>tvuYRtk6hEGT8HxbO9HAHUeGYVTJIyBJf4NvTsxflR4KQEouclblfy2BhiGQpLPK1qdHmEFOFW4xtOExfDwtTw==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">wq5WM7kCKqynzJ7d3nyamFN9W7/YhQ9Or2mumsVAW6Ee3HJCI8WpVuhKzFbJr+fXKhR9biCqu0HIVwtS4b4QLQ==</FRMA>
+</CAF><TSTED>2018-07-23T13:02:08</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">SlPVkkfvAYHwmlGc83bq/K75S0tD4MhWkiM1/Cat3GCyIXMsTPmVAcQ8ShlfFchLIfRaRHD72NhEj6CfA9FpIQ==</FRMT>
+</TED>
+		<TmstFirma>2018-07-23T13:02:08</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>FqbLg86doUlaOZ4vmiv97VVGaTg=</DigestValue></Reference></SignedInfo><SignatureValue>kzXHHIH9UsnKjX6qqcQmsZTbPod7pu/EsCTZ6HRBKWypieNkQH8w/1nZMR5SBsJqFhOu861KPcupn3ar3nNFuk8qMytTEy+JfMZt6fs+SH8IaVEdIs6RJ+szn6Fcw6qHeBG72txU6pIM8G2Wrknv/keeOGdDdF6JAFqwqMPfG/k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pDdSxMFncfeKFlsF4i+3naK6TTRBlJv0qk05tvWWcd/sh3VBrdTrSW4nneOMjoJ6Uk8qhAINaHBt
+tIrrCk99NRSGY4URZ+lKj58GZkEwV4D+ebdPRTOgM9YfWcKCMElCzF6EIU77zDiZvNZnhjEXGf8N
+WFxvGX0/PA/ZyBvV9YE=
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGVTCCBT2gAwIBAgIKcCJGEQAAAAmHdjANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzEyMTIxODQ3NDlaFw0yMDEyMTExODQ3NDla
+MIHYMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMR4wHAYDVQQKExVTSVNHRU4gQ0hJTEUgTElNSVRBREExHzAdBgNVBAsT
+FlNFUlZJQ0lPUyBJTkZPUk1BVElDT1MxJDAiBgNVBAMTG0xBVVRBUk8gQVJUVVJPIExFSVZBIERJ
+TVRFUjEqMCgGCSqGSIb3DQEJARYbam9yZ2UubXVqaWNhQHNpc2dlbmNoaWxlLmNsMIGfMA0GCSqG
+SIb3DQEBAQUAA4GNADCBiQKBgQCkN1LEwWdx94oWWwXiL7edorpNNEGUm/SqTTm29ZZx3+yHdUGt
+1OtJbied44yOgnpSTyqEAg1ocG20iusKT301FIZjhRFn6UqPnwZmQTBXgP55t09FM6Az1h9ZwoIw
+SULMXoQhTvvMOJm81meGMRcZ/w1YXG8ZfT88D9nIG9X1gQIDAQABo4ICpzCCAqMwPQYJKwYBBAGC
+NxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwHQYD
+VR0OBBYEFAXQr1BTAzWbYIMKfdYsbbkdyj+jMAsGA1UdDwQEAwIE8DAfBgNVHSMEGDAWgBR44T6f
+0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxl
+LmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRw
+Oi8vb2NzcC5lY2VydGNoaWxlLmNsL29jc3AwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTc0
+ODg4MS05MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTCCAU0GA1UdIASCAUQw
+ggFAMIIBPAYIKwYBBAHDUgUwggEuMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxl
+LmNsL0NQUy5odG0wgfwGCCsGAQUFBwICMIHvHoHsAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAEYA
+aQByAG0AYQAgAFMAaQBtAHAAbABlAC4AIABIAGEAIABzAGkAZABvACAAdgBhAGwAaQBkAGEAZABv
+ACAAZQBuACAAZgBvAHIAbQBhACAAcAByAGUAcwBlAG4AYwBpAGEAbAAsACAAcQB1AGUAZABhAG4A
+ZABvACAAaABhAGIAaQBsAGkAdABhAGQAbwAgAGUAbAAgAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AHAAYQByAGEAIAB1AHMAbwAgAHQAcgBpAGIAdQB0AGEAcgBpAG8wDQYJKoZIhvcNAQEFBQADggEB
+AEZrLwjkiKNxxTYqKzX6OTFwC7V9q0mDKKCiNBLDLTEqtLMaoedCPhSXsLHnEpa2pVvOMIqUrZud
+QKn7ZmS7/PYd7694+NIS5MsOHrfo4v89Y0zvl+XqwTWk+PGD3xCHJxapl+K1XFUQqjD4+ZkmHFUf
+3F9xVzjZBcJ6ojt0ySwBuDf0ohXKpc+NPt3Mq4PUWz02hPn5i8ejghB1zG/O+Y1Khbw5DaKs53Yd
+oN0qf/BA6c7JBEi23U6usOVzSuYgcqLPVgztc2TW6809gio5Q2u35k9nMwN5nruqy9mMhfhF4lN8
+OiysrcDzcsZ8854cMzx61DUxYAV7Xoy0BHL/QSU=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

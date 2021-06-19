@@ -1,0 +1,178 @@
+
+/*PERSONALIZADO */
+
+.fondo-gris
+{
+    background-color: #e2e2e2;
+}
+
+.borde-redondo
+{
+    border-radius: 4px;
+}
+
+.paddingI
+{
+    padding-left: 20px;
+}
+
+.paddingI-md
+{
+    padding-left: 150px;
+}
+
+.paddingI-lg
+{
+    padding-left: 240px;
+}
+
+.paddingD
+{
+    padding-right: 20px;
+}
+
+.margenI
+{
+    margin-left: 20px;
+}
+
+.margenD
+{
+    margin-right: 20px;
+}
+
+.borde-gris
+{
+    border-color: #e2e2e2;
+    border-style: solid;
+}
+
+.texto-dark
+{
+    color:#464646;
+}
+
+.texto-petroleo
+{
+    color:#1e6f96;
+}
+
+.centrado-md
+{
+    margin: 0 15% 0 15%;
+}
+
+.upper
+{
+    text-transform: uppercase;
+}
+
+.sep-tabla
+{
+    border-collapse:separate; 
+    border-spacing:4px; 
+    font-size: 12px;
+}
+
+.tabla
+{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+.tablaFct1 td:nth-child(odd)
+{
+    background-color: #f0f0f0;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;   
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.tablaFct2 tr:first-child td
+{
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.tablaFct1 .sinFondo td
+{
+    background: none;
+    padding: 0;
+}
+
+
+.inline
+{
+    display: inline-block;
+    width: 48%;
+}
+
+#tablaDetalle td:last-child, #tablaReferencia td:last-child
+{
+    background: none;
+}
+
+#tablaDetalle td:first-child
+{
+    width: 20%;
+}
+
+#tablaDetalle td:nth-child(3)
+{
+    width: 10%;
+}
+
+#tablaValores td:nth-child(even) input
+{
+    text-align: right;
+}
+
+#tablaReferencia
+{
+    table-layout: fixed;
+}
+
+
+#tablaReferencia td:nth-child(1)
+{
+    width:22%;
+}
+
+#tablaReferencia td:nth-child(2)
+{
+    width:15%;
+}
+
+#tablaReferencia td:nth-child(3)
+{
+    width:18%;
+}
+
+#tablaReferencia td:nth-child(4)
+{
+    width:20%;
+}
+
+#tablaReferencia td:nth-child(5)
+{
+    width:20%;
+}
+
+.pl-10
+{
+    padding-left: 10px;
+}
+
+.mitad
+{
+    table-layout: fixed;
+}
+
+.mitad td
+{
+    width: 50%;
+}

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T110_F11-2018SepWed165317">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>110</TipoDTE>
+				<Folio>11</Folio>
+				<FchEmis>2018-09-05</FchEmis>
+				<IndServicio>4</IndServicio>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>77629170-6</RUTEmisor>
+				<RznSoc>JOSE BRAVO CORREA Y COMPANIA LIMITADA </RznSoc>
+				<GiroEmis>VENTA AL POR MAYOR DE MATERIALES DE CONSTRUCCION, ARTICULOS DE FERRETERIA</GiroEmis>
+				<CorreoEmisor>josebravocorrea@tie.cl</CorreoEmisor>
+				<Acteco>514320</Acteco>
+				<DirOrigen>DIEZ DE JULIO 145</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>EXPORTACIONES ANGELS</RznSocRecep>
+				<Extranjero>
+					<Nacionalidad>997</Nacionalidad>
+				</Extranjero>
+				<GiroRecep>SERVICIOS INFORMATICOS</GiroRecep>
+				<DirRecep>LAGO COCHRANE 4920</DirRecep>
+			</Receptor>
+			<Totales>
+				<TpoMoneda>DOLAR USA</TpoMoneda>
+				<MntExe>1000</MntExe>
+				<MntTotal>1000</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>653.00</TpoCambio>
+				<MntExeOtrMnda>653000.00</MntExeOtrMnda>
+				<MntTotOtrMnda>653000.00</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>HOSTING WEB</NmbItem>
+			<QtyItem>1</QtyItem>
+			<PrcItem>1000.00</PrcItem>
+			<MontoItem>1000</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>813</TpoDocRef>
+			<FolioRef>110</FolioRef>
+			<FchRef>2018-09-05</FchRef>
+			<RazonRef>17558736</RazonRef>
+		</Referencia>
+		<TED version="1.0">
+			<DD>
+				<RE>77629170-6</RE>
+				<TD>110</TD>
+				<F>11</F>
+				<FE>2018-09-05</FE>
+				<RR>55555555-5</RR>
+				<RSR>EXPORTACIONES ANGELS</RSR>
+				<MNT>1000</MNT>
+				<IT1>HOSTING WEB</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>77629170-6</RE>
+<RS>JOSE BRAVO CORREA Y COMPANIA LIMITADA</RS>
+<TD>110</TD>
+<RNG><D>1</D><H>50</H></RNG>
+<FA>2018-09-05</FA>
+<RSAPK><M>sTwcEKxPqSNwVlr0sxZ/8T1J+apNgsr2sJC44vppCqCtTUpqKo3Q3/xffPOGJIBoHAAQxQ0RnGbWYTcr84bSiQ==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">ojrXjGy1VqV/TKI/6V+GmKA1FP61DLX6n+3GU3DbeEr+Yh6qs70ZRVM2wUYy6zZpnYOTH+fBxgoVqwk8zoiTYg==</FRMA>
+</CAF><TSTED>2018-09-05T16:53:17</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">Xh6O/n5qBWyDqmB1XSFUDzjZXdzr/rI6IUzgA1Gq92LKC7pMBGF1/qYC+ZphAnr0LincRL/BnQyQP+jzF9TCvQ==</FRMT>
+</TED>
+		<TmstFirma>2018-09-05T16:53:17</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>DpWuNGpEFbOFRX2qjNy2/HY/U9k=</DigestValue></Reference></SignedInfo><SignatureValue>SKENYF1XS5sxn/ZOiik7lHyuVF4vNqGiSveRKCqIKiHgBOo6fhvXevt4LLbB7QBiaVKqFEXkInRSzNPFGa3DiXL4yPE5sjiqTWg9Neoe2ykUOqyJ9fucNR1OgXMntEU+9GY4WZs3X5arjOB/Ru7NFkOanO49vtoWa3l0uAnYlZXUHw7BRodwtIWhP08fkILWqgVsgLd3zTABp0j1/GZDAOs227zuZOFbW9AWCmjCC2cGoLo2gMsRtuJXMVsI8wQBfliOKWg1nRudZmDMaoKug9ihIwbpDA1k6CWp2IlTGL+CNSNqGwENw5E/xMFIJd70gcAprkxUApo9+wO0pSXf5w==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zY7i1C1DednCf5ouycCMvYA6Wivn8C8UqMZ1p2XhOBbnhQdZMtht9FH38MO5J/vjxaeU8PVpKNFq
+DJE8j/oqeh05HELuWVBsKZ9G5T73T96QrkdSuKOFKiJmqf3IS04bqxj8EtN/m9W7+TnbvlsiIgKw
+2kOiA94D/XVUDB1SST4pU2yUeuVSs2f2kqU04SYcHOjJ8Q/KcBEfnadDe1/fASusIC5KJvOBpZhV
+6ZHzvmkqgPv2GkAQVmrukMHDWEPkH9GrAcn0bJFhwfSMQkeFDHY62hthlvUPqKVbQZUXjSziKmG8
+Uvi7RLXvwUdJyrtATzSA/50SuIeUQf6/bU8q7w==
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGcDCCBVigAwIBAgIDAVEmMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xNzEwMDIxOTMzMDRaFw0yMDEwMDIx
+OTMzMDRaMIGHMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSMwIQYDVQQD
+ExpKT1NFIE1BVVJJQ0lPIEJSQVZPIENPUlJFQTElMCMGCSqGSIb3DQEJARYWam9zZWJyYXZvY29y
+cmVhQHRpZS5jbDESMBAGA1UEBRMJOTEyMTMxMS03MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAzY7i1C1DednCf5ouycCMvYA6Wivn8C8UqMZ1p2XhOBbnhQdZMtht9FH38MO5J/vjxaeU
+8PVpKNFqDJE8j/oqeh05HELuWVBsKZ9G5T73T96QrkdSuKOFKiJmqf3IS04bqxj8EtN/m9W7+Tnb
+vlsiIgKw2kOiA94D/XVUDB1SST4pU2yUeuVSs2f2kqU04SYcHOjJ8Q/KcBEfnadDe1/fASusIC5K
+JvOBpZhV6ZHzvmkqgPv2GkAQVmrukMHDWEPkH9GrAcn0bJFhwfSMQkeFDHY62hthlvUPqKVbQZUX
+jSziKmG8Uvi7RLXvwUdJyrtATzSA/50SuIeUQf6/bU8q7wIDAQABo4ICwjCCAr4wHwYDVR0jBBgw
+FoAUZaWrPj/ItlFtEX5fwwoH5kOgCLYwHQYDVR0OBBYEFEZN2dTJJq/YRAMeswESDEI0bLFEMAsG
+A1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQD
+AgWgMIH1BgNVHSAEge0wgeowgecGCCsGAQQBtWsCMIHaMDEGCCsGAQUFBwIBFiVodHRwczovL2Fj
+ZzQuYWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMIGkBggrBgEFBQcCAjCBlzAWFg9BY2VwdGEuY29t
+IFMuQS4wAwIBCRp9RWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRvIGVuIGZvcm1hIG9ubGluZSwg
+cXVlZGFuZG8gaGFiaWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvLCBw
+YWdvcywgY29tZXJjaW8geSBvdHJvcy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1
+MC04oCQGCCsGAQUFBwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNv
+bTBfBgNVHREEWDBWoBcGCCsGAQQBwQEBoAsWCTkxMjEzMTEtN6AjBggrBgEFBQcIA6AXMBUMCTkx
+MjEzMTEtNwYIKwYBBAHBAQKBFmpvc2VicmF2b2NvcnJlYUB0aWUuY2wwRwYIKwYBBQUHAQEEOzA5
+MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0
+MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNl
+Mi1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBAK1Irk+ZpWfv2tRdlaV0M5Gf5wjIvzweBObuupiS
+FYP9pd8LsvTaDXsnpRQuXT9DATEaiDdc9Zqp721Fm8ycTJsU75iVuier+qSroGtu+/3MHXCThHGu
+fQwobAHPxy5K4TeT1kb8MCLSGQ4Vz4ZT+SyHyXjx0oUoCu50glmrRrzoczsSgp53TbgHQMHJUWFr
+Rv59Qo269Ho4IRXCc2NNZg9Rh0gbE/isa0Twjavb/HjPQqba59z818dL1+78ZRRFyv9TJXGXkaQz
+1ClrUC0fWZ3Acqh2G7hDAAj4rR09XOintrXmgamEIXu08UfektJWItGSVvpXaiTJoorbwlvZ3o4=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones ID="T110_F7-2018SepWed132707">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>110</TipoDTE>
+				<Folio>7</Folio>
+				<FchEmis>2018-09-05</FchEmis>
+				<IndServicio>4</IndServicio>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>77629170-6</RUTEmisor>
+				<RznSoc>JOSE BRAVO CORREA Y COMPANIA LIMITADA </RznSoc>
+				<GiroEmis>VENTA AL POR MAYOR DE MATERIALES DE CONSTRUCCION, ARTICULOS DE FERRETERIA</GiroEmis>
+				<CorreoEmisor>josebravocorrea@tie.cl</CorreoEmisor>
+				<Acteco>514320</Acteco>
+				<DirOrigen>DIEZ DE JULIO 145</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<RznSocRecep>EXPORTACIONES ANGELS</RznSocRecep>
+				<Extranjero>
+					<Nacionalidad>218</Nacionalidad>
+				</Extranjero>
+				<GiroRecep>SERVICIOS DE HOSTING</GiroRecep>
+				<DirRecep>LAGO COCHRANE 4920</DirRecep>
+			</Receptor>
+			<Totales>
+				<TpoMoneda>DOLAR USA</TpoMoneda>
+				<MntExe>151</MntExe>
+				<MntTotal>151</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO CL</TpoMoneda>
+				<TpoCambio>653.00</TpoCambio>
+				<MntExeOtrMnda>98603.00</MntExeOtrMnda>
+				<MntTotOtrMnda>98603.00</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<IndExe>1</IndExe>
+			<NmbItem>ALOJAMIENTO HABITACIONES</NmbItem>
+			<QtyItem>1</QtyItem>
+			<PrcItem>151.00</PrcItem>
+			<MontoItem>151</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>SET</TpoDocRef>
+			<FolioRef>110</FolioRef>
+			<FchRef>2018-09-05</FchRef>
+			<RazonRef>CASO 1006352-3</RazonRef>
+		</Referencia>
+		<Referencia>
+			<NroLinRef>2</NroLinRef>
+			<TpoDocRef>813</TpoDocRef>
+			<FolioRef>110</FolioRef>
+			<FchRef>2018-09-05</FchRef>
+			<RazonRef>17558736</RazonRef>
+		</Referencia>
+		<TED version="1.0">
+			<DD>
+				<RE>77629170-6</RE>
+				<TD>110</TD>
+				<F>7</F>
+				<FE>2018-09-05</FE>
+				<RR>55555555-5</RR>
+				<RSR>EXPORTACIONES ANGELS</RSR>
+				<MNT>151</MNT>
+				<IT1>ALOJAMIENTO HABITACIONES</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>77629170-6</RE>
+<RS>JOSE BRAVO CORREA Y COMPANIA LIMITADA</RS>
+<TD>110</TD>
+<RNG><D>1</D><H>50</H></RNG>
+<FA>2018-09-05</FA>
+<RSAPK><M>sTwcEKxPqSNwVlr0sxZ/8T1J+apNgsr2sJC44vppCqCtTUpqKo3Q3/xffPOGJIBoHAAQxQ0RnGbWYTcr84bSiQ==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">ojrXjGy1VqV/TKI/6V+GmKA1FP61DLX6n+3GU3DbeEr+Yh6qs70ZRVM2wUYy6zZpnYOTH+fBxgoVqwk8zoiTYg==</FRMA>
+</CAF><TSTED>2018-09-05T13:27:07</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">YsPVviC5cD0GOJ/rj0YxIS+S9pPxlGdypJK5GySR2SUt6EKAFZ3AQvDTxgexqxQZPs2zTnGYkxunedJu3Ivdeg==</FRMT>
+</TED>
+		<TmstFirma>2018-09-05T13:27:07</TmstFirma>
+	</Exportaciones>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>7jwjSqGwOK9Pw/epcMHoDP73cVw=</DigestValue></Reference></SignedInfo><SignatureValue>yfAdoFluEcwvwv7wiGx3W8c2jcucAHHNQoawh18yLmAJJZThJ49UYW/XQAnjWvzktsNfWZZG9NB0Ej8yefrHFtgEoyJKpLrzbNKDgagCvNCcTdHDyLSWHzn60Lx3HoEYtId7/yFLUHGkxEO+rnqESjeTRJ+O9iSmXfz8/t+9+90w68z45/L7769+v6iCJQU2uo7Jc5UHluoHYBVToE6OeMwVHNZRivaczWzalvmpBCEBPFWwYtoUYozEXdxUDtO16JIz2p5VWlaYaIQMBK16iAxFUH9HhdkmUIuqyLnNtS2W46X8VZD/W3+DTBr+hUANFcUFbYf+UQmUodfbvrDdUQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zY7i1C1DednCf5ouycCMvYA6Wivn8C8UqMZ1p2XhOBbnhQdZMtht9FH38MO5J/vjxaeU8PVpKNFq
+DJE8j/oqeh05HELuWVBsKZ9G5T73T96QrkdSuKOFKiJmqf3IS04bqxj8EtN/m9W7+TnbvlsiIgKw
+2kOiA94D/XVUDB1SST4pU2yUeuVSs2f2kqU04SYcHOjJ8Q/KcBEfnadDe1/fASusIC5KJvOBpZhV
+6ZHzvmkqgPv2GkAQVmrukMHDWEPkH9GrAcn0bJFhwfSMQkeFDHY62hthlvUPqKVbQZUXjSziKmG8
+Uvi7RLXvwUdJyrtATzSA/50SuIeUQf6/bU8q7w==
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGcDCCBVigAwIBAgIDAVEmMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xNzEwMDIxOTMzMDRaFw0yMDEwMDIx
+OTMzMDRaMIGHMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSMwIQYDVQQD
+ExpKT1NFIE1BVVJJQ0lPIEJSQVZPIENPUlJFQTElMCMGCSqGSIb3DQEJARYWam9zZWJyYXZvY29y
+cmVhQHRpZS5jbDESMBAGA1UEBRMJOTEyMTMxMS03MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAzY7i1C1DednCf5ouycCMvYA6Wivn8C8UqMZ1p2XhOBbnhQdZMtht9FH38MO5J/vjxaeU
+8PVpKNFqDJE8j/oqeh05HELuWVBsKZ9G5T73T96QrkdSuKOFKiJmqf3IS04bqxj8EtN/m9W7+Tnb
+vlsiIgKw2kOiA94D/XVUDB1SST4pU2yUeuVSs2f2kqU04SYcHOjJ8Q/KcBEfnadDe1/fASusIC5K
+JvOBpZhV6ZHzvmkqgPv2GkAQVmrukMHDWEPkH9GrAcn0bJFhwfSMQkeFDHY62hthlvUPqKVbQZUX
+jSziKmG8Uvi7RLXvwUdJyrtATzSA/50SuIeUQf6/bU8q7wIDAQABo4ICwjCCAr4wHwYDVR0jBBgw
+FoAUZaWrPj/ItlFtEX5fwwoH5kOgCLYwHQYDVR0OBBYEFEZN2dTJJq/YRAMeswESDEI0bLFEMAsG
+A1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQD
+AgWgMIH1BgNVHSAEge0wgeowgecGCCsGAQQBtWsCMIHaMDEGCCsGAQUFBwIBFiVodHRwczovL2Fj
+ZzQuYWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMIGkBggrBgEFBQcCAjCBlzAWFg9BY2VwdGEuY29t
+IFMuQS4wAwIBCRp9RWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRvIGVuIGZvcm1hIG9ubGluZSwg
+cXVlZGFuZG8gaGFiaWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvLCBw
+YWdvcywgY29tZXJjaW8geSBvdHJvcy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1
+MC04oCQGCCsGAQUFBwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNv
+bTBfBgNVHREEWDBWoBcGCCsGAQQBwQEBoAsWCTkxMjEzMTEtN6AjBggrBgEFBQcIA6AXMBUMCTkx
+MjEzMTEtNwYIKwYBBAHBAQKBFmpvc2VicmF2b2NvcnJlYUB0aWUuY2wwRwYIKwYBBQUHAQEEOzA5
+MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0
+MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNl
+Mi1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBAK1Irk+ZpWfv2tRdlaV0M5Gf5wjIvzweBObuupiS
+FYP9pd8LsvTaDXsnpRQuXT9DATEaiDdc9Zqp721Fm8ycTJsU75iVuier+qSroGtu+/3MHXCThHGu
+fQwobAHPxy5K4TeT1kb8MCLSGQ4Vz4ZT+SyHyXjx0oUoCu50glmrRrzoczsSgp53TbgHQMHJUWFr
+Rv59Qo269Ho4IRXCc2NNZg9Rh0gbE/isa0Twjavb/HjPQqba59z818dL1+78ZRRFyv9TJXGXkaQz
+1ClrUC0fWZ3Acqh2G7hDAAj4rR09XOintrXmgamEIXu08UfektJWItGSVvpXaiTJoorbwlvZ3o4=</X509Certificate></X509Data></KeyInfo></Signature></DTE>

@@ -1,0 +1,240 @@
+[14-Aug-2018 13:09:24 America/Santiago] HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2018 16:09:24 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Tue, 14 Aug 2018 16:09:24 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>06190573-1</RUTSENDER>
+ <RUTCOMPANY>76325490-9</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-08-14T13%3A09%3A18.xml</FILE>
+ <TIMESTAMP>2018-08-14 13:09:24</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0068681390</TRACKID>
+
+</RECEPCIONDTE>
+
+[14-Aug-2018 13:12:35 America/Santiago] HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2018 16:12:35 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Tue, 14 Aug 2018 16:12:35 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>06190573-1</RUTSENDER>
+ <RUTCOMPANY>76325490-9</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-08-14T13%3A12%3A31.xml</FILE>
+ <TIMESTAMP>2018-08-14 13:12:35</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0068681394</TRACKID>
+
+</RECEPCIONDTE>
+
+[14-Aug-2018 13:57:11 America/Santiago] HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2018 16:57:11 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Tue, 14 Aug 2018 16:57:11 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>06190573-1</RUTSENDER>
+ <RUTCOMPANY>76325490-9</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-08-14T13%3A57%3A07.xml</FILE>
+ <TIMESTAMP>2018-08-14 13:57:11</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0068681666</TRACKID>
+
+</RECEPCIONDTE>
+
+[14-Aug-2018 14:15:55 America/Santiago] HTTP/1.1 200 OK
+Date: Tue, 14 Aug 2018 17:15:54 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Tue, 14 Aug 2018 17:15:54 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>06190573-1</RUTSENDER>
+ <RUTCOMPANY>76325490-9</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-08-14T14%3A15%3A51.xml</FILE>
+ <TIMESTAMP>2018-08-14 14:15:54</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0068681768</TRACKID>
+
+</RECEPCIONDTE>
+
+[05-Sep-2018 12:32:12 America/Santiago] HTTP/1.1 200 OK
+Date: Wed, 05 Sep 2018 15:32:12 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Wed, 05 Sep 2018 15:32:12 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>9121311-7</RUTSENDER>
+ <RUTCOMPANY>77629170-6</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-09-05T12%3A32%3A06.xml</FILE>
+ <TIMESTAMP>2018-09-05 12:32:12</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0069082060</TRACKID>
+
+</RECEPCIONDTE>
+
+[05-Sep-2018 13:13:30 America/Santiago] HTTP/1.1 200 OK
+Date: Wed, 05 Sep 2018 16:13:29 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Wed, 05 Sep 2018 16:13:29 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>9121311-7</RUTSENDER>
+ <RUTCOMPANY>77629170-6</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-09-05T13%3A13%3A26.xml</FILE>
+ <TIMESTAMP>2018-09-05 13:13:29</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0069082352</TRACKID>
+
+</RECEPCIONDTE>
+
+[05-Sep-2018 13:27:14 America/Santiago] HTTP/1.1 200 OK
+Date: Wed, 05 Sep 2018 16:27:14 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Wed, 05 Sep 2018 16:27:14 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>9121311-7</RUTSENDER>
+ <RUTCOMPANY>77629170-6</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-09-05T13%3A27%3A10.xml</FILE>
+ <TIMESTAMP>2018-09-05 13:27:14</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0069082428</TRACKID>
+
+</RECEPCIONDTE>
+
+[05-Sep-2018 13:46:03 America/Santiago] HTTP/1.1 200 OK
+Date: Wed, 05 Sep 2018 16:46:03 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Wed, 05 Sep 2018 16:46:03 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>9121311-7</RUTSENDER>
+ <RUTCOMPANY>77629170-6</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-09-05T13%3A45%3A59.xml</FILE>
+ <TIMESTAMP>2018-09-05 13:46:03</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0069082604</TRACKID>
+
+</RECEPCIONDTE>
+
+[05-Sep-2018 14:22:04 America/Santiago] HTTP/1.1 200 OK
+Date: Wed, 05 Sep 2018 17:22:04 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Wed, 05 Sep 2018 17:22:04 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>9121311-7</RUTSENDER>
+ <RUTCOMPANY>77629170-6</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-09-05T14%3A22%3A01.xml</FILE>
+ <TIMESTAMP>2018-09-05 14:22:04</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0069082776</TRACKID>
+
+</RECEPCIONDTE>
+
+[05-Sep-2018 16:58:27 America/Santiago] HTTP/1.1 200 OK
+Date: Wed, 05 Sep 2018 19:58:27 GMT
+Server: version 1.1 Apache
+Cache-Control: max-age=0
+Expires: Wed, 05 Sep 2018 19:58:27 GMT
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: es
+
+<?xml version="1.0"?>
+<RECEPCIONDTE>
+ <RUTSENDER>9121311-7</RUTSENDER>
+ <RUTCOMPANY>77629170-6</RUTCOMPANY>
+ <FILE>SET_Certificacion_2018-09-05T16%3A58%3A24.xml</FILE>
+ <TIMESTAMP>2018-09-05 16:58:27</TIMESTAMP>
+ <STATUS>0</STATUS>
+
+
+ <TRACKID>0069085368</TRACKID>
+
+</RECEPCIONDTE>
+
